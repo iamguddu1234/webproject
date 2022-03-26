@@ -1,0 +1,27 @@
+install npm
+npm init-create package json
+npm -i express - webframework for node js
+npm i express nodemon mysql ----
+
+App.js file  run - node App - cmd
+
+node App - run server
+
+if we dont want to start server again and again we use here 
+- add this line on package.json
+
+    "start": "nodemon App.js"
+
+    npm start
+
+
+we can use java script templet engin - templet engin is hust like html file
+ and we can we can write expression/condition in this file
+
+ in case we use .html file then we cant write expressn in this file
+  thats why here we use templet engin
+
+  HBS-handlebars
+  install hbs package- npm i hbs
+
+./ - root
